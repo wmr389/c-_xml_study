@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectDialogsInfo>
+	<Dialog language="CN">
+		<Speak>英雄</Speak>												 
+		<Content>这是哪里？</Content>
+	</Dialog>
+
+	<Dialog language="CN">
+		<Speak>NPC</Speak>
+		<!--<Content>你好，欢迎来到亚特兰蒂斯地下城！</Content>-->
+	</Dialog>
+
+	<Dialog language="CN">
+		<Speak>英雄</Speak>
+		<Content age="38">你好;我是XML演示文件！</Content>
+	</Dialog>
+</ProjectDialogsInfo>
